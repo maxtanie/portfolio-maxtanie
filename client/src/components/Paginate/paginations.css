@@ -1,0 +1,11 @@
+.pagination .page-link {
+  width: 30px;
+  height: 30px;
+  line-height: 30px;
+  display: inline-block;
+  vertical-align: middle;
+  border: 1px solid #888;
+  background: #000;
+  margin-right: 2px;
+  color: #fff;
+  text-decoration: none; }

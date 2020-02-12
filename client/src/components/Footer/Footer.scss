@@ -1,0 +1,36 @@
+.footer {
+  footer {
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+    background: #111;
+    padding: 20px;
+    color: #fff;
+    z-index: 999;
+
+    .bloc-infos {
+      max-width: 80%;
+      // margin: auto;
+      // display: block;
+      text-align: center;
+      font-weight: normal;
+    }
+  }
+}
+
+.dib {
+  display: inline-block;
+  vertical-align: middle;
+  padding: 5px;
+}
+
+.link-follow-me {
+  text-decoration: none;
+  color: #e3bb1d;
+  transition: 0.3s ease-in-out;
+
+  &:hover {
+    color: orange;
+    text-decoration: underline;
+  }
+}

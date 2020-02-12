@@ -1,0 +1,16 @@
+.bloc-btn {
+  text-align: center;
+  margin-top: 50px; }
+  .bloc-btn .btn {
+    outline: none;
+    cursor: pointer;
+    padding: 20px 25px !important;
+    font-size: 1em;
+    color: #fff;
+    border: none;
+    letter-spacing: 1px;
+    font-family: "calibri light";
+    text-transform: uppercase; }
+    @media screen and (max-width: 760px) {
+      .bloc-btn .btn {
+        font-size: 0.9em; } }

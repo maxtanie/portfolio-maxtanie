@@ -1,0 +1,60 @@
+.section-contact-me {
+  min-height: 500px;
+  // background-image: url("https://wallpaperaccess.com/full/1767778.png");
+  // background-size: cover;
+  // background-position: center;
+  background: #111;
+
+  padding-top: 60px;
+  padding-bottom: 40px;
+  .container-contact {
+    width: 450px;
+    margin: auto;
+    max-width: 90%;
+    padding: 20px;
+
+    .contact-style {
+      outline: none;
+      border: 1px solid #222;
+      width: 100%;
+      padding: 10px;
+      margin-bottom: 30px;
+      background: transparent;
+      color: #fff;
+    }
+
+    .btn-style {
+      cursor: pointer;
+      border: none;
+      width: 100%;
+      padding: 12px 25px;
+      background: rgb(248, 193, 13);
+      font-size: 1.1em;
+      color: #000;
+    }
+
+    .height-textarea {
+      min-height: 150px;
+    }
+  }
+}
+
+.red {
+  color: #f8be32;
+  margin: 15px 0 15px 0;
+  margin-left: 5px;
+}
+
+.green {
+  color: rgb(29, 174, 29);
+  margin: 15px 0 15px 0;
+  margin-left: 5px;
+}
+
+.hide {
+  display: none;
+}
+
+.show {
+  display: block;
+}

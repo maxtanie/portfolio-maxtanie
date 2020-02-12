@@ -1,0 +1,97 @@
+{
+  "About": {
+    "Fr": {
+      "title": "A propos",
+      "titleWhoIAm": "Qui suis-je ?",
+      "whoAmIText": "Je développe une passion pour l'intégration web qui occupe une grande place dans ma vie car cet univers binaire est sans limites et évolue sans cesse.",
+      "titleHobbies": "Mes centres d'intérêt",
+      "hobbiesImages": [
+        {
+          "url": [
+            "http://icons.iconarchive.com/icons/icons8/ios7/256/Computer-Hardware-Micro-icon.png",
+            "https://image.flaticon.com/icons/png/512/69/69045.png",
+            "https://i.pinimg.com/originals/2c/af/b6/2cafb6f0a0e5a5b68e97d2723c0f8ea7.png",
+            "https://lh3.googleusercontent.com/proxy/f8_sqzYWyqQkoGCoj3aBGYFKkZSlPrCjSmKILVgbQGkUcNSOYq1HvUlHasjdQaVk-Dmzgxc0LgC4Dw2URXZhaVCIj_uiqmzNcut6PVoHtMiJBvJEUfRlYc15Ww"
+          ],
+          "imageName": ["Musique", "Programmation", "Lecture", "Marcher"]
+        }
+      ]
+    },
+    "En": {
+      "title": "About",
+      "titleWhoIAm": "Who am I ?",
+      "whoAmIText": "I develop a passion for web integration that occupies a great place in my life, because this universe binary is limitless and constantly evolves.",
+      "titleHobbies": "My hobbies",
+      "hobbiesImages": [
+        {
+          "url": [
+            "http://icons.iconarchive.com/icons/icons8/ios7/256/Computer-Hardware-Micro-icon.png",
+            "https://image.flaticon.com/icons/png/512/69/69045.png",
+            "https://i.pinimg.com/originals/2c/af/b6/2cafb6f0a0e5a5b68e97d2723c0f8ea7.png",
+            "https://lh3.googleusercontent.com/proxy/f8_sqzYWyqQkoGCoj3aBGYFKkZSlPrCjSmKILVgbQGkUcNSOYq1HvUlHasjdQaVk-Dmzgxc0LgC4Dw2URXZhaVCIj_uiqmzNcut6PVoHtMiJBvJEUfRlYc15Ww"
+          ],
+          "imageName": ["Music", "Programming", "Read", "To walk"]
+        }
+      ]
+    },
+    "imgProfil": "../../images/tanie2.jpg"
+  },
+  "Creations": {
+    "Fr": {
+      "ProjectOne": {
+        "id": "1",
+        "title": "Créations",
+        "name": "ChristCenter",
+        "url": "http://www.justine-mazure.fr/images/creas/nanaki02.jpg",
+        "titleProject": {
+          "title": "Project",
+          "text": "Uniformisation des développements par la création d'un coeur commun à tous les projets du périmètre. Le projet est conçu en responsive design avec détection de device côté serveur.\n        Création d'un framework CSS interne.\n        Rédaction des guidelines de développement front-end (templates de pages, blocs et strips, SASS, charte graphique à respecter, ...)"
+        },
+        "titleObjectif": {
+          "title": "Objectifs",
+          "text": "Pour ces projets, j'ai du mettre en place des solutions adaptables et modulables pour faciliter l'export et l'implémentation du tronc commun sur chaque projet existant et à venir, dans le respect de la charte graphique et des contraintes imposées (notamment la compatibilité IE7 et IE8 et le responsive design)."
+        },
+        "logiciels": {
+          "title": "Logiciels",
+          "listLogiciels": "Photoshop, Brackets / Netbeans, Git, Putty"
+        },
+        "languages": {
+          "title": "Languages",
+          "listLanguages": "HTML, CSS / Sass, Javascript, jQuery, Ajax, Smarty, PHP"
+        }
+      }
+    },
+    "En": {
+      "ProjectOne": {
+        "id": "1",
+        "title": "Creations",
+        "name": "ChristCenter",
+        "url": "http://www.justine-mazure.fr/images/creas/nanaki02.jpg",
+        "titleProject": {
+          "title": "Project",
+          "text": "Uniformisation des développements par la création d'un coeur commun à tous les projets du périmètre. Le projet est conçu en responsive design avec détection de device côté serveur.\n        Création d'un framework CSS interne.\n        Rédaction des guidelines de développement front-end (templates de pages, blocs et strips, SASS, charte graphique à respecter, ...)"
+        },
+        "titleObjectif": {
+          "title": "Objectifs",
+          "text": "Pour ces projets, j'ai du mettre en place des solutions adaptables et modulables pour faciliter l'export et l'implémentation du tronc commun sur chaque projet existant et à venir, dans le respect de la charte graphique et des contraintes imposées (notamment la compatibilité IE7 et IE8 et le responsive design)."
+        },
+        "logiciels": {
+          "title": "Logiciels",
+          "listLogiciels": "Photoshop, Brackets / Netbeans, Git, Putty"
+        },
+        "languages": {
+          "title": "Languages",
+          "listLanguages": "HTML, CSS / Sass, Javascript, jQuery, Ajax, Smarty, PHP"
+        }
+      }
+    }
+  },
+  "ContactMe": {
+    "Fr": {
+      "title": "Contact moi"
+    },
+    "En": {
+      "title": "Contact me"
+    }
+  }
+}

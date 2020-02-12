@@ -1,0 +1,99 @@
+@import url("https://fonts.googleapis.com/css?family=Faster+One|Oswald:300,400,500,700|Source+Sans+Pro:300,400,600,700&amp;display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box; }
+
+body {
+  overflow-x: hidden;
+  font-family: "Source Sans Pro", sans-serif; }
+
+/*
+----------------------------------------------------------------
+DEFAULT STYLES
+----------------------------------------------------------------
+*/
+.white-col {
+  color: #fff; }
+
+/*
+----------------------------------------------------------------
+TEXT STYLES
+----------------------------------------------------------------
+*/
+.title {
+  font-size: 3em;
+  margin-bottom: 30px; }
+  @media screen and (max-width: 768px) {
+    .title {
+      font-size: 2em; } }
+
+.center {
+  text-align: center; }
+
+.left {
+  text-align: left; }
+
+.capitalize {
+  text-transform: capitalize; }
+
+.big-size {
+  font-size: 3em; }
+
+.uppercase {
+  text-transform: uppercase; }
+
+.tiny {
+  font-size: 1em; }
+
+.txt-width {
+  width: 700px;
+  margin: auto;
+  max-width: 100%;
+  text-align: justify !important;
+  line-height: 1.7; }
+
+.none {
+  display: none; }
+
+/*
+----------------------------------------------------------------
+RESPONSIVE STYLES
+----------------------------------------------------------------
+*/
+.container-main {
+  width: 83%;
+  max-width: 100%;
+  margin: auto;
+  margin-left: 17%; }
+  @media screen and (max-width: 960px) {
+    .container-main {
+      width: 70%;
+      margin-left: 30%; } }
+
+.container {
+  width: 1100px;
+  max-width: 100%;
+  margin: auto;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(140px, 1fr)); }
+  @media screen and (max-width: 760px) {
+    .container {
+      grid-template-columns: repeat(1, 1fr); }
+      .container .bloc-content {
+        margin: 0;
+        min-height: 300px;
+        padding: 20px 0; } }
+  .container .img-loading {
+    width: 200px;
+    margin: auto;
+    display: block; }
+
+.flex {
+  display: flex; }
+
+.hide {
+  display: none; }
+
+.containers {
+  max-width: 100%; }

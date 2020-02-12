@@ -1,0 +1,27 @@
+.bg-header {
+  position: relative;
+  height: 60vh;
+  background-image: url("../../images/bg-portfolio-page.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  @media screen and (max-width: 1050px) {
+    height: 35vh;
+    background-image: url("../../images/bg-portfolio-page-mobile.png");
+  }
+}
+
+.container-type-script {
+  width: 700px;
+  line-height: 1.6;
+  margin: auto;
+}
+
+.txt-writing {
+  font-size: 1.2em;
+  color: #000;
+}
+
+.bg {
+  min-width: 100%;
+  max-width: 100%;
+}

@@ -1,0 +1,41 @@
+nav {
+  position: fixed;
+  top: 0vh;
+  left: 0;
+  bottom: 0;
+  background: #fff;
+  width: 17%;
+  min-height: 200px;
+  box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.1);
+  z-index: 1000;
+  text-align: center;
+  padding-top: 30px;
+  transition: 1s ease-in-out;
+  // background-image: url("../../images/bg-nav2.png");
+  // background-repeat: no-repeat;
+  // background-position: center;
+
+  .logo {
+    width: 60px;
+  }
+  .list-items {
+    a {
+      padding: 10px 30px;
+      display: block;
+      color: #000;
+      text-decoration: none;
+      line-height: 2;
+
+      &:hover {
+        color: #dcb109;
+        transition: 0.3s ease-in-out;
+      }
+    }
+  }
+  @media screen and (max-width: 960px) {
+    width: 30%;
+    top: 0;
+    font-size: 0.95em;
+    line-height: 1.8;
+  }
+}

@@ -1,0 +1,23 @@
+.pagination {
+  // position: absolute;
+  // width: 100%;
+  // background: #eee;
+  // top: 60%;
+  // left: 50%;
+  // transform: translate(-50%, -60%);
+  // padding: 5px;
+  // text-align: center;
+
+  .page-link {
+    width: 30px;
+    height: 30px;
+    line-height: 30px;
+    display: inline-block;
+    vertical-align: middle;
+    border: 1px solid #888;
+    background: #000;
+    margin-right: 2px;
+    color: #fff;
+    text-decoration: none;
+  }
+}

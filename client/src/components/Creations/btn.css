@@ -1,0 +1,9 @@
+.btn-creations {
+  cursor: pointer;
+  background: #fff;
+  border: 1px solid #eaeaea !important;
+  transition: 0.3s ease;
+  color: #555; }
+  .btn-creations:hover {
+    background: #e0b148;
+    color: #333; }

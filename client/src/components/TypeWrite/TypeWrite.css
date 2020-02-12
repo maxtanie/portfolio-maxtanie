@@ -1,0 +1,5 @@
+@media screen and (max-width: 790px) {
+  .bloc-quotation {
+    width: 90%;
+    margin: auto;
+    line-height: 1.7; } }
